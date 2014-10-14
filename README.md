@@ -1,2 +1,2 @@
-winc_firmware
+wilc1000_firmware
 =============
